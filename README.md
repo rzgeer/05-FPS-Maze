@@ -6,7 +6,7 @@ A Godot Project, completing MSCH-C220 project 05-FPS-Maze.
 
 ## Implementation
 Built using Godot 3.2.3
-Includes fully functional FPS Maze game, completing requirements stated in MSCH-C220 Space shooter project outline.
+Includes fully functional FPS Maze game, completing requirements stated in MSCH-C220 FPS Maze project outline.
 
 ## References
 www.kenney.nl,
